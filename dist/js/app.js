@@ -1,0 +1,1 @@
+console.clear(),console.log("🍻");
