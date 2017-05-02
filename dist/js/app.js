@@ -1,1 +1,1 @@
-console.clear(),console.log("🍻");
+const boom="boom";console.clear(),console.log(boom);
