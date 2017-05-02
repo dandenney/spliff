@@ -26,7 +26,5 @@
 //   Usage
 // -------------------------------------
 
-const boom = "boom";
-
 console.clear();
-console.log(boom);
+console.log("🍻");
